@@ -1,0 +1,3 @@
+font-family: 'EB Garamond', serif;
+font-family: 'Bodoni Moda', serif;
+font-family: 'Montserrat', sans-serif;
